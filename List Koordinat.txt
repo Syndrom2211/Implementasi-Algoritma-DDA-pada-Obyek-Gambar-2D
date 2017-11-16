@@ -1,0 +1,350 @@
+// Tinggi Kaki Kiri
+ xenol = 40;
+ yeenol = 87;
+ xsatu = 40;
+ yesatu = 40;
+ 
+ // Tinggi Kaki Kanan
+ xenol_atap = 52;
+ yeenol_atap = 87;
+ xsatu_atap = 52;
+ yesatu_atap = 40;
+ 
+ // Kaki Belakang Atas
+ xenol_kanan = 40;
+ yeenol_kanan = 40;
+ xsatu_kanan = 33;
+ yesatu_kanan = 40;
+ 
+ // Panjang Sepatu Atas
+ xenol_alas = 52;
+ yeenol_alas = 40;
+ xsatu_alas = 70;
+ yesatu_alas = 40;
+ 
+ // Kaki Belakang Kiri
+ xbkenol = 33;
+ ybkenol = 40;
+ xbksatu = 33;
+ ybksatu = 25;
+ 
+ // Alas Sepatu
+ asxenol = 33;
+ asyenol = 25;
+ asxsatu = 75;
+ asysatu = 25;
+ 
+ // Depan Sepatu
+ dsxenol = 75;
+ dsyenol = 35;
+ dsxsatu = 75;
+ dsysatu = 25;
+ 
+ // Kaus Kaki Garis 1
+ kauskaki_x[0] = 40;
+ kauskaki_y[0] = 40;
+ kauskaki_x[1] = 52;
+ kauskaki_y[1] = 40;
+ 
+ // Kaus Kaki Garis 2
+ kauskaki_x[2] = 40;
+ kauskaki_y[2] = 41;
+ kauskaki_x[3] = 52;
+ kauskaki_y[3] = 41;
+ 
+ // Kaus Kaki Garis 3
+ kauskaki_x[4] = 40;
+ kauskaki_y[4] = 42;
+ kauskaki_x[5] = 52;
+ kauskaki_y[5] = 42;
+ 
+ // Kaus Kaki Garis 4
+ kauskaki_x[6] = 40;
+ kauskaki_y[6] = 43;
+ kauskaki_x[7] = 52;
+ kauskaki_y[7] = 43;
+ 
+ // Kaus Kaki Garis 5
+ kauskaki_x[8] = 40;
+ kauskaki_y[8] = 44;
+ kauskaki_x[9] = 52;
+ kauskaki_y[9] = 44;
+ 
+ // Kaus Kaki Garis 6
+ kauskaki_x[10] = 40;
+ kauskaki_y[10] = 45;
+ kauskaki_x[11] = 52;
+ kauskaki_y[11] = 45;
+ 
+ // Kaus Kaki Garis 7
+ kauskaki_x[12] = 40;
+ kauskaki_y[12] = 46;
+ kauskaki_x[13] = 52;
+ kauskaki_y[13] = 46;
+ 
+ // Kaus Kaki Garis 8
+ kauskaki_x[14] = 40;
+ kauskaki_y[14] = 47;
+ kauskaki_x[15] = 52;
+ kauskaki_y[15] = 47;
+ 
+ // Kaus Kaki Garis 9
+ kauskaki_x[16] = 40;
+ kauskaki_y[16] = 48;
+ kauskaki_x[17] = 52;
+ kauskaki_y[17] = 48;
+ 
+ // Kaus Kaki Garis 10
+ kauskaki_x[18] = 40;
+ kauskaki_y[18] = 49;
+ kauskaki_x[19] = 52;
+ kauskaki_y[19] = 49;
+ 
+ // Kotak Dalem Bawah
+ kotakdalem_x[1] = 35;
+ kotakdalem_y[1] = 27;
+ kotakdalem_x[2] = 40;
+ kotakdalem_y[2] = 27;
+ 
+ // Kotak Dalem Kiri
+ kotakdalem_x[3] = 35;
+ kotakdalem_y[3] = 30;
+ kotakdalem_x[4] = 35;
+ kotakdalem_y[4] = 28;
+ 
+ // Kotak Dalem Kanan
+ kotakdalem_x[5] = 40;
+ kotakdalem_y[5] = 30;
+ kotakdalem_x[6] = 40;
+ kotakdalem_y[6] = 28;
+ 
+ // Kotak Dalem Atas
+ kotakdalem_x[7] = 35;
+ kotakdalem_y[7] = 31;
+ kotakdalem_x[8] = 40;
+ kotakdalem_y[8] = 31;
+ 
+ // Tali Sepatu
+ talisepatu_x[1] = 57;
+ talisepatu_y[1] = 36;
+ talisepatu_x[2] = 68;
+ talisepatu_y[2] = 36;
+ 
+ // Tali Sepatu Kanan
+ talisepatu_x[3] = 68;
+ talisepatu_y[3] = 40;
+ talisepatu_x[4] = 68;
+ talisepatu_y[4] = 36;
+ 
+ // Tali Sepatu Kiri
+ talisepatu_x[5] = 57;
+ talisepatu_y[5] = 40;
+ talisepatu_x[6] = 57;
+ talisepatu_y[6] = 36;
+ 
+ // Tali Sepatu Dalem
+ talisepatu_x[7] = 66;
+ talisepatu_y[7] = 40;
+ talisepatu_x[8] = 66;
+ talisepatu_y[8] = 38;
+ 
+ // Tali Sepatu Dalem 2 Alas
+ talisepatu_x[9] = 59;
+ talisepatu_y[9] = 38;
+ talisepatu_x[10] = 66;
+ talisepatu_y[10] = 38;
+ 
+ // Tali Sepatu Dalem 2 Kiri
+ talisepatu_x[11] = 59;
+ talisepatu_y[11] = 40;
+ talisepatu_x[12] = 59;
+ talisepatu_y[12] = 38;
+ 
+ // Tali Sepatu Dalem 3 Tiang 1
+ talisepatu_x[13] = 64;
+ talisepatu_y[13] = 40;
+ talisepatu_x[14] = 64;
+ talisepatu_y[14] = 38;
+ 
+ // Tali Sepatu Dalem 3 Tiang 2
+ talisepatu_x[16] = 62;
+ talisepatu_y[16] = 40;
+ talisepatu_x[17] = 62;
+ talisepatu_y[17] = 38;
+ 
+ // Tali Sepatu Dalem 3 Bawah
+ talisepatu_x[18] = 59;
+ talisepatu_y[18] = 39;
+ talisepatu_x[19] = 66;
+ talisepatu_y[19] = 39;
+ 
+ // Huruf T
+ talisepatu_x[20] = 45;
+ talisepatu_y[20] = 31;
+ talisepatu_x[21] = 45;
+ talisepatu_y[21] = 27;
+ 
+ talisepatu_x[22] = 43;
+ talisepatu_y[22] = 31;
+ talisepatu_x[23] = 47;
+ talisepatu_y[23] = 31;
+ 
+ // Huruf R
+ talisepatu_x[24] = 49;
+ talisepatu_y[24] = 31;
+ talisepatu_x[25] = 49;
+ talisepatu_y[25] = 27;
+ 
+ talisepatu_x[26] = 50;
+ talisepatu_y[26] = 31;
+ talisepatu_x[27] = 52;
+ talisepatu_y[27] = 31;
+ 
+ talisepatu_x[28] = 53;
+ talisepatu_y[28] = 31;
+ talisepatu_x[29] = 53;
+ talisepatu_y[29] = 29;
+ 
+ talisepatu_x[30] = 50;
+ talisepatu_y[30] = 29;
+ talisepatu_x[31] = 52;
+ talisepatu_y[31] = 29;
+ 
+ talisepatu_x[32] = 50;
+ talisepatu_y[32] = 29;
+ talisepatu_x[33] = 53;
+ talisepatu_y[33] = 27;
+ 
+ // Huruf U
+ talisepatu_x[34] = 55;
+ talisepatu_y[34] = 31;
+ talisepatu_x[35] = 55;
+ talisepatu_y[35] = 27;
+ 
+ talisepatu_x[36] = 56;
+ talisepatu_y[36] = 27;
+ talisepatu_x[37] = 59;
+ talisepatu_y[37] = 27;
+ 
+ talisepatu_x[36] = 59;
+ talisepatu_y[36] = 31;
+ talisepatu_x[37] = 59;
+ talisepatu_y[37] = 27;
+ 
+ talisepatu_x[38] = 56;
+ talisepatu_y[38] = 27;
+ talisepatu_x[39] = 59;
+ talisepatu_y[39] = 27;
+ 
+ // Huruf T
+ talisepatu_x[40] = 63;
+ talisepatu_y[40] = 31;
+ talisepatu_x[41] = 63;
+ talisepatu_y[41] = 27;
+ 
+ talisepatu_x[42] = 61;
+ talisepatu_y[42] = 31;
+ talisepatu_x[43] = 65;
+ talisepatu_y[43] = 31;
+ 
+ // Huruf H
+ talisepatu_x[44] = 67;
+ talisepatu_y[44] = 31;
+ talisepatu_x[45] = 67;
+ talisepatu_y[45] = 27;
+ 
+ talisepatu_x[46] = 68;
+ talisepatu_y[46] = 29;
+ talisepatu_x[47] = 70;
+ talisepatu_y[47] = 29;
+ 
+ talisepatu_x[48] = 71;
+ talisepatu_y[48] = 31;
+ talisepatu_x[49] = 71;
+ talisepatu_y[49] = 27;
+ 
+ // Huruf W
+ talisepatu_x[50] = 35;
+ talisepatu_y[50] = 38;
+ talisepatu_x[51] = 35;
+ talisepatu_y[51] = 34;
+ 
+ talisepatu_x[52] = 38;
+ talisepatu_y[52] = 38;
+ talisepatu_x[53] = 38;
+ talisepatu_y[53] = 34;
+ 
+ talisepatu_x[54] = 41;
+ talisepatu_y[54] = 38;
+ talisepatu_x[55] = 41;
+ talisepatu_y[55] = 34;
+ 
+ talisepatu_x[56] = 35;
+ talisepatu_y[56] = 34;
+ talisepatu_x[57] = 40;
+ talisepatu_y[57] = 34;
+ 
+ // Huruf A
+ talisepatu_x[58] = 43;
+ talisepatu_y[58] = 38;
+ talisepatu_x[59] = 43;
+ talisepatu_y[59] = 34;
+ 
+ talisepatu_x[60] = 48;
+ talisepatu_y[60] = 38;
+ talisepatu_x[61] = 48;
+ talisepatu_y[61] = 34;
+ 
+ talisepatu_x[62] = 43;
+ talisepatu_y[62] = 38;
+ talisepatu_x[63] = 48;
+ talisepatu_y[63] = 38;
+ 
+ talisepatu_x[64] = 43;
+ talisepatu_y[64] = 36;
+ talisepatu_x[65] = 48;
+ talisepatu_y[65] = 36;
+ 
+ // Huruf Y
+ talisepatu_x[66] = 50;
+ talisepatu_y[66] = 38;
+ talisepatu_x[67] = 52;
+ talisepatu_y[67] = 36;
+ 
+ talisepatu_x[68] = 54;
+ talisepatu_y[68] = 38;
+ talisepatu_x[69] = 52;
+ talisepatu_y[69] = 36;
+ 
+ talisepatu_x[70] = 52;
+ talisepatu_y[70] = 36;
+ talisepatu_x[71] = 52;
+ talisepatu_y[71] = 34;
+ 
+ // LENGKUNGAN DEPAN SEPATU
+ talisepatu_x[72] = 70;
+ talisepatu_y[72] = 40;
+ talisepatu_x[73] = 75;
+ talisepatu_y[73] = 35;
+ 
+ // TANAH
+ talisepatu_x[74] = 160;
+ talisepatu_y[74] = 25;
+ talisepatu_x[75] = 0;
+ talisepatu_y[75] = 25;
+ 
+ // BODY SETENGAH
+ talisepatu_x[76] = 20;
+ talisepatu_y[76] = 87;
+ talisepatu_x[77] = 90;
+ talisepatu_y[77] = 87;
+ 
+ talisepatu_x[78] = 20;
+ talisepatu_y[78] = 87;
+ talisepatu_x[79] = 20;
+ talisepatu_y[79] = 140;
+ 
+ talisepatu_x[80] = 90;
+ talisepatu_y[80] = 87;
+ talisepatu_x[81] = 90;
+ talisepatu_y[81] = 140;
